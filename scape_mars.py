@@ -123,7 +123,7 @@ def hemispheres(browser):
 
     browser.quit()
 
-    return hemispheres_image_urls
+    return hemispheres_image_urls 
 
 def scrape():
     executable_path = {'executable_path': 'C:/chromedriver'}
